@@ -1,0 +1,15 @@
+{
+    "name": "hala/mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Hala Ibrahim",
+            "email": "halaibrahim867@gmail.com"
+        }
+    ],
+    "require": {}
+}
